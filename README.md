@@ -8,7 +8,7 @@ Create scenes, conversations and films directly on your RimWorld map.
 
 ![Built-in dependency manager](https://images.steamusercontent.com/ugc/18378083456434446688/C4B09AE675419759C13CE2185793C37AF7EB21D8/)
 
-**[Installable Studio ZIP — 0.8.18.0136](https://github.com/igorkozakmy-art/Rimworld-Animation-studio/releases/download/v0.8.18.0136/RimWorldAnimationStudio-0.8.18.0136.zip)**
+**[Installable Studio ZIP — 0.8.19.0137](https://github.com/igorkozakmy-art/Rimworld-Animation-studio/releases/download/v0.8.19.0137/RimWorldAnimationStudio-0.8.19.0137.zip)**
 
 Extract the Studio folder into `RimWorld/Mods`; install Harmony separately. The automatically generated **Source code** archives contain this project page, not the installable mod.
 
@@ -49,7 +49,7 @@ Search Telegram for **RimRisovod**, Risovod's community channel. The Workshop pa
 
 ## Русский
 
-**[Установочная сборка студии — 0.8.18.0136](https://github.com/igorkozakmy-art/Rimworld-Animation-studio/releases/download/v0.8.18.0136/RimWorldAnimationStudio-0.8.18.0136.zip)**
+**[Установочная сборка студии — 0.8.19.0137](https://github.com/igorkozakmy-art/Rimworld-Animation-studio/releases/download/v0.8.19.0137/RimWorldAnimationStudio-0.8.19.0137.zip)**
 
 Папку студии из ZIP поместите в `RimWorld/Mods`. Harmony устанавливается отдельно. Автоматические архивы **Source code** содержат страницу проекта, а не сборку мода.
 
