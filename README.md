@@ -8,7 +8,7 @@ Create scenes, conversations and films directly on your RimWorld map.
 
 ![Built-in dependency manager](https://images.steamusercontent.com/ugc/18378083456434446688/C4B09AE675419759C13CE2185793C37AF7EB21D8/)
 
-**[Installable Studio ZIP — 0.8.25.0143](https://github.com/igorkozakmy-art/Rimworld-Animation-studio/releases/download/v0.8.25.0143/RimWorldAnimationStudio-0.8.25.0143.zip)**
+**[Installable Studio ZIP — 0.8.26.0144](https://github.com/igorkozakmy-art/Rimworld-Animation-studio/releases/download/v0.8.26.0144/RimWorldAnimationStudio-0.8.26.0144.zip)**
 
 Extract the Studio folder into `RimWorld/Mods`; install Harmony separately. The automatically generated **Source code** archives contain this project page, not the installable mod.
 
@@ -33,7 +33,7 @@ When Workshop is unavailable, the first-run window and compatibility catalog sho
 
 ## Privacy and reports
 
-There is no background telemetry or automatic delivery of error reports. Technical logs are written locally. A report is sent to the author only when you explicitly press **Send** in the report window. Opening the window does not send it, and reports queued by older builds are not retried automatically.
+There is no background telemetry or automatic delivery of error reports. Technical logs are written locally. A report is sent to the author only when you explicitly press **Send** in the report window. Opening the window does not send it, and reports queued by older builds are not retried automatically. Confirming Ignore sends an empty request. The server stores the time of that choice separately from error reports.
 
 On an error, green Send and red Ignore buttons unlock after five seconds. Both choices require confirmation. Only a confirmed server receipt opens an optional suggestion form with a close button. Repeated errors are grouped.
 
@@ -49,7 +49,7 @@ Search Telegram for **RimRisovod**, Risovod's community channel. The Workshop pa
 
 ## Русский
 
-**[Установочная сборка студии — 0.8.25.0143](https://github.com/igorkozakmy-art/Rimworld-Animation-studio/releases/download/v0.8.25.0143/RimWorldAnimationStudio-0.8.25.0143.zip)**
+**[Установочная сборка студии — 0.8.26.0144](https://github.com/igorkozakmy-art/Rimworld-Animation-studio/releases/download/v0.8.26.0144/RimWorldAnimationStudio-0.8.26.0144.zip)**
 
 Папку студии из ZIP поместите в `RimWorld/Mods`. Harmony устанавливается отдельно. Автоматические архивы **Source code** содержат страницу проекта, а не сборку мода.
 
@@ -57,7 +57,7 @@ Animation Studio — редактор сцен на карте RimWorld: акт�
 
 Требуется Harmony; дополнительные моды необязательны. Встроенный менеджер подбирает зависимости по разделам. При недоступном Workshop каталог показывает названия и ID для ручной установки из официальных источников авторов.
 
-Фоновой телеметрии и автоматической отправки отчётов нет. Логи хранятся локально и отправляются только по кнопке **«Отправить»**. Перед отправкой проверьте файл: в нём могут быть ошибки, список модов, сведения о сцене, локальные пути и Steam ID.
+Фоновой телеметрии и автоматической отправки отчётов нет. Логи хранятся локально и отправляются только по кнопке **«Отправить»**. Перед отправкой проверьте файл: в нём могут быть ошибки, список модов, сведения о сцене, локальные пути и Steam ID. При подтверждении игнорирования мод отправляет пустой запрос. Сервер хранит время отказа отдельно от отчётов об ошибках.
 
 Сообщество и стандартные релизы: поиск **RimRisovod** в Telegram. Добровольная благодарность автору не влияет на доступ к функциям и обновлениям.
 
